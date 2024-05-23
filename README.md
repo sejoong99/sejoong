@@ -2,7 +2,7 @@
 
 # LSTM, PINN, and BERT Research Repository
 
-Welcome to the GitHub repository where we explore the integration and application of Long Short-Term Memory (LSTM) networks, Physics-Informed Neural Networks (PINN), and Bidirectional Encoder Representations from Transformers (BERT). This repository contains the code, datasets, and documentation for our current research projects.
+Welcome to the GitHub repository where we explore the application of Long Short-Term Memory (LSTM) networks, Physics-Informed Neural Networks (PINN), and Bidirectional Encoder Representations from Transformers (BERT). This repository contains the code, datasets, and documentation for our current research projects.
 
 ## Overview
 
